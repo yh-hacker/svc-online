@@ -60,7 +60,7 @@
 # 2. 转换人声(任选其一）
 
 ## 2.1 在线转换 ———— On Colab （极快，不过可能受限）
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yh-hacker/svc-online/blob/main/mvsep_mdx23.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yh-hacker/svc-online/blob/main/SVC_ykt.ipynb)
 
 ## 2.2 在线转换 ———— On Huggingface （较慢）
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%8E%A4%EF%B8%8F_Space-_SVC%20%20ykt%20WebUI-red?style=for-the-badge)](https://huggingface.co/spaces/YH-Official/SVC-ykt)
