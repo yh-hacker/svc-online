@@ -63,6 +63,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yh-hacker/svc-online/blob/main/mvsep_mdx23.ipynb)
 
 ## 2.2 在线转换 ———— On Huggingface （较慢）
-[![Hugging Face Spaces](https://img.shields.io/badge/SVC-ykt?style=for-the-badge)](https://huggingface.co/spaces/YH-Official/SVC-ykt)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%8E%A4%EF%B8%8F_Space- SVC-ykt-red?style=for-the-badge)](https://huggingface.co/spaces/YH-Official/SVC-ykt)
 
 ## 2.3 本地转换 ———— 技术难度过大，再次不过多赘述
